@@ -46,17 +46,6 @@ Frontend Developer with hands-on experience building complex enterprise data ana
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 
-**Auth & Real-time**
-
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
-![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat)
-
-**Export & Office Formats**
-
-![PDF](https://img.shields.io/badge/jsPDF_/_react--pdf-EC1C24?style=flat)
-![PowerPoint](https://img.shields.io/badge/pptxgenjs-D24726?style=flat)
-![Excel](https://img.shields.io/badge/ExcelJS-217346?style=flat)
-
 ---
 
 ## Experience
