@@ -29,12 +29,7 @@ Frontend Developer with hands-on experience building complex enterprise data ana
 **Data Visualisation & Mapping**
 
 ![ECharts](https://img.shields.io/badge/Apache_ECharts-AA344D?style=flat&logo=apache&logoColor=white)
-![Highcharts](https://img.shields.io/badge/Highcharts-1F8BF1?style=flat)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
-![Mapbox GL](https://img.shields.io/badge/Mapbox_GL-000000?style=flat&logo=mapbox&logoColor=white)
 ![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat&logo=three.js&logoColor=white)
 
 **Build & Tooling**
 
