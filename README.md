@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:maxgrinbox@gmail.com">maxgrinbox@gmail.com</a> ·
-  <a href="https://t.me/maxgreen42">Telegram</a> ·
+  <a href="https://t.me/maxim_grin">Telegram</a> ·
   <a href="https://github.com/maxim-green">GitHub</a>
 </p>
 
