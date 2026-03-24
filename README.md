@@ -11,7 +11,7 @@
 
 ## About
 
-Frontend Developer with hands-on experience building complex enterprise data analytics and BI platforms. Specialised in React/TypeScript, interactive data visualisation (charts, maps, 3D), and plugin-driven UI architectures. Comfortable working across the full frontend stack — from reusable component libraries to domain-specific dashboards for government and utility clients.
+Frontend Developer with hands-on experience building complex enterprise data analytics and BI platforms. Specialised in React/TypeScript, interactive data visualisation (charts, maps), and plugin-driven UI architectures. Comfortable working across the full frontend stack — from reusable component libraries to domain-specific dashboards for government and utility clients.
 
 ---
 
